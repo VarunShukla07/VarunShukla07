@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Shukla, a B.Tech student at VIT Vellore.</h1>
 <h3 align="center">A Engineer, not a Framework</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" /> 
+<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" width="80" height="80" /> 
 
 - 🌱 I’m currently learning **Web Development**
 
