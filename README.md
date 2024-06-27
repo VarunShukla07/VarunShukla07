@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Shukla, a B.Tech student at VIT Vellore.</h1>
-<h3 align="center">A Engineer, not a Framework</h3>
+<h3 align="center">A Engineer, not a Framework</h3><br>
 
 <img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" width="200" height="200" /> 
 
-- 🌱 I’m currently learning **Web Development**
+- ✨ I have a keen interest in **Web Development**
+
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Data Structures and Algorithms (DSA)**
 <br>
@@ -32,5 +34,6 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunshukla07&label=Profile%20views&color=0e75b6&style=flat" alt="varunshukla07" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=VarunShukla07&label=Profile%20Views&color=11&icon=9&pretty=true" />
+</a>
