@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Varun Shukla, currently pursuing a B.Tech degree at VIT Vellore</h1>
+<h1 align="center">Hi 👋, I'm Varun Shukla, a B.Tech student at VIT Vellore.</h1>
 <h3 align="center">A Engineer, not a Framework</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunshukla07&label=Profile%20views&color=0e75b6&style=flat](https://pin.it/5wNiC0FcC" alt="varunshukla07" /> </p>
+<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" /> 
 
 - 🌱 I’m currently learning **Web Development**
 
