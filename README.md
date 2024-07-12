@@ -4,7 +4,7 @@
 
 
 <h1 style="margin: 0;">💫 About Me:</h1>
-<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" width="250" height="160" />
+<img align="right" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif" alt="varunshukla07" width="250" height="150" />
 <p>✨ I have a keen interest in Web Development</p>
 <p>🌱 I’m currently learning DSA</p>
 <p>💬 Ask me about Data Structures and Algorithms (DSA)</p>
