@@ -3,8 +3,8 @@
 <br><h3 align="center">A Engineer, not a Framework</h3><br><br><br><br>
 
 <img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="varunshukla07" width="250" height="200" />
-<p>✨ I have a keen interest in Web Development</p>
-<p>🌱 I’m currently learning DSA</p>
+<p>✨ I have a keen interest in Web Development and DSA</p>
+<p>🌱 I’m currently learning Machine Learning</p>
 <p>💬 Ask me about Data Structures and Algorithms (DSA)</p>
 
 <br> <br> 
