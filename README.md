@@ -38,6 +38,4 @@
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=VarunShukla07&label=Profile%20Views&color=11&icon=9&pretty=true" />
-</a>
+![](https://komarev.com/ghpvc/?username=VarunShukla07)
