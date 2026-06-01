@@ -1,17 +1,17 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=28&duration=4000&pause=1000&color=C9F7AF&width=435&lines=Hello+there%2C+Myself+Varun+Shukla;B.Tech+Student+at+VIT+VELLORE;Full+Stack+Developer;Feel+Free+To+Connect+Me+)](https://git.io/typing-svg)
+<!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=28&duration=4000&pause=1000&color=C9F7AF&width=435&lines=Hello+there%2C+Myself+Varun+Shukla;B.Tech+Student+at+VIT+VELLORE;Full+Stack+Developer;Feel+Free+To+Connect+Me+)](https://git.io/typing-svg) -->
 
-<img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="varunshukla07" width="250" height="200" />
+<!-- <img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="varunshukla07" width="250" height="200" />
 <p>⚙️ Building backend systems, data pipelines, and cloud infrastructure</p>
 <p>🌱 Currently diving deep into DevOps & infrastructure (Docker, GitHub Actions, Prometheus, Grafana)</p>
-<p>💬 Ask me about Data Engineering, Python backends, or DSA</p>
+<p>💬 Ask me about Data Engineering, Python backends, or DSA</p> -->
 
 <br> <br> 
 
-<h2 style="margin: 0;">Socials:</h2>
+<!-- <h2 style="margin: 0;">Socials:</h2>
 <a href="https://www.linkedin.com/in/varun-shukla-446357224/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black" alt="LinkedIn" />
-</a>
+</a> -->
 
 # 💻 Tech Stack:
 **Languages**
@@ -77,4 +77,3 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=VarunShukla07)
