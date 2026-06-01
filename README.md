@@ -1,6 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=28&duration=4000&pause=1000&color=C9F7AF&width=435&lines=Hello+there%2C+Myself+Varun+Shukla;B.Tech+Student+at+VIT+VELLORE;Full+Stack+Developer;Feel+Free+To+Connect+Me+)](https://git.io/typing-svg)
-<br><h3 align="center">A Engineer, not a Framework</h3><br><br><br><br>
 
 <img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="varunshukla07" width="250" height="200" />
 <p>⚙️ Building backend systems, data pipelines, and cloud infrastructure</p>
@@ -74,22 +73,6 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunShukla07&theme=synthwave&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunShukla07&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
-</div>
-
-
-
-
-## Activity
-[![Varun Shukla's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarunShukla07&bg_color=1c116e&color=659e4c&line=1aad95&point=48f000&area=true&hide_border=true)](https://github.com/VarunShukla07/github-readme-activity-graph)
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
 
 
